@@ -1,5 +1,5 @@
 ## Hello!! 👋
-- 🔭 I’m currently working on a bartering app for CWRU students, and an ~intro to java~ quiz app for ECSE 132 at CWRU
+- 🔭 I’m currently working on a bartering app for CWRU students, and an ✨intro to java ✨ quiz app for ECSE 132 at CWRU
 - 🌱 I’m currently learning java, switftUI, python
 - 👯 I’m looking to collaborate on app developmenT
 - 💬 Ask me about Java!
